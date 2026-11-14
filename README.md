@@ -68,7 +68,8 @@ npm run preview
 
 - **Email**: [basavarajsk2004@gmail.com](mailto:basavarajsk2004@gmail.com)
 - **GitHub**: [github.com/Basavaraj-SK](https://github.com/Basavaraj-SK)
-- **Live Demo Link**: [AttendFlow & Cloud Kitchen](https://attendence-trac.netlify.app/)
+- **Live Demo Link**:https://basuportfolio.netlify.app/
+
 - **Location**: Bangalore, Karnataka, India
 
 ---
